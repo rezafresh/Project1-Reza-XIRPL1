@@ -18,7 +18,7 @@ public class Menu {
         return namaMenu;
     }
 
-    public void setNamaMenu(String namaMenu) {
+    public void setNama_menu(String namaMenu) {
         this.namaMenu = namaMenu;
     }
 
