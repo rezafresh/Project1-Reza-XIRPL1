@@ -14,7 +14,7 @@ public class Menu {
     private double harga;
     private  String kategori;
 
-    public String getNamaMenu() {
+    public String getNama_menu() {
         return namaMenu;
     }
 
