@@ -5,7 +5,9 @@ package classes;
  * @author alfanumeric
  */
 public class Toping extends Menu {
-    public Toping(String namaToping, double harga){
-
+    public Toping(String nama_toping, double harga){
+        setNama_menu(nama_toping);
+        setHarga(harga);
+        setKategori("Toping");
     }
 }
